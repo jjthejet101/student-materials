@@ -6,7 +6,7 @@
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+*Business objectives should offer the details for why the project is important.  Outline the goals of the project in the sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
 
 ## Background
 
@@ -43,4 +43,4 @@
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+*Every project has inherent risks that may cause delay or even failure of a project. You must identify these risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
